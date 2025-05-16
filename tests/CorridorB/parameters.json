@@ -1,0 +1,64 @@
+{
+	"Beacons": {
+		"D9:50:2E:00:6F:D8": {
+			"Name": "Albert",
+			"Tx": 4.0,
+			"Height": 1.9,
+			"PosX": 0.0,
+			"PosY": 23.985,
+			"NormX": 1.0,
+			"NormY": 0.0
+		},
+		"D6:FA:4A:58:94:B3": {
+			"Name": "Bob",
+			"Tx": 4.0,
+			"Height": 1.9,
+			"PosX": 0.0,
+			"PosY": 18.01,
+			"NormX": 1.0,
+			"NormY": 0.0
+		},
+		"F8:06:4F:CA:45:F5": {
+			"Name": "Cody",
+			"Tx": 4.0,
+			"Height": 1.9,
+			"PosX": 0.0,
+			"PosY": 12.005,
+			"NormX": 1.0,
+			"NormY": 0.0
+		},
+		"C6:7B:E3:B2:8F:C7": {
+			"Name": "Dennis",
+			"Tx": 4.0,
+			"Height": 1.9,
+			"PosX": 0.0,
+			"PosY": 5.975,
+			"NormX": 1.0,
+			"NormY": 0.0
+		},
+		"ED:3F:AF:BE:34:B8": {
+			"Name": "Edward",
+			"Tx": 4.0,
+			"Height": 1.9,
+			"PosX": 0.0,
+			"PosY": 0.0,
+			"NormX": 1.0,
+			"NormY": 0.0
+		}
+	},
+	"Sniffer": {
+		"BLEChannel": 37,
+		"Height": 1.2,
+		"dX": 0.84,
+		"dY": -0.02
+	},
+	"Tunnel": {
+		"Width": 2.76,
+		"Depth": 24.0,
+		"Shape": [
+			[ 1.38, 0.0 ],
+			[ 1.38, 24.0 ]
+		]
+	},
+	"WindowSizes": [ 60.0 ]
+}
